@@ -580,7 +580,7 @@ Transform:
   m_Children:
   - {fileID: 1108984448}
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &668834478 stripped
 GameObject:
@@ -1078,7 +1078,7 @@ PrefabInstance:
     - target: {fileID: 5059569368259937485, guid: 4657d1fbd8c1f864c832c9f596d1c33f,
         type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 5059569368259937485, guid: 4657d1fbd8c1f864c832c9f596d1c33f,
         type: 3}
@@ -1503,7 +1503,7 @@ Transform:
   - {fileID: 1622990258}
   - {fileID: 2124288570}
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1714472249
 MonoBehaviour:
@@ -1728,7 +1728,7 @@ PrefabInstance:
     - target: {fileID: 5059569368259937485, guid: 4657d1fbd8c1f864c832c9f596d1c33f,
         type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 5059569368259937485, guid: 4657d1fbd8c1f864c832c9f596d1c33f,
         type: 3}
@@ -2206,6 +2206,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: CuttingCounter
+      objectReference: {fileID: 0}
+    - target: {fileID: 9184244959698573887, guid: 974d8c551de8ebd4cace66e19092f836,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.298
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 974d8c551de8ebd4cace66e19092f836, type: 3}
