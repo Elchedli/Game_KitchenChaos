@@ -69,6 +69,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 93af8b85a17635f40a5b76ed82a86c18, type: 3}
+--- !u!1 &961046088213693092 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 17251720544094567, guid: 93af8b85a17635f40a5b76ed82a86c18,
+    type: 3}
+  m_PrefabInstance: {fileID: 966892978344430531}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &3664499690762104681 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4589716710238282922, guid: 93af8b85a17635f40a5b76ed82a86c18,
+    type: 3}
+  m_PrefabInstance: {fileID: 966892978344430531}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &8989345856129658114
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3664499690762104681}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18b24b5fcfe7a18449321a4115ed02de, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  stoveCounter: {fileID: 2028792719097313715}
+  stoveOnGameObject: {fileID: 961046088213693092}
+  particlesGameObject: {fileID: 4979054806115767597}
+--- !u!1 &4979054806115767597 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5220305274835918574, guid: 93af8b85a17635f40a5b76ed82a86c18,
+    type: 3}
+  m_PrefabInstance: {fileID: 966892978344430531}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &5292936492062275094
 PrefabInstance:
   m_ObjectHideFlags: 0
